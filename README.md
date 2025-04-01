@@ -1,6 +1,9 @@
 # My Simple Classy React
 
 > Special thanks to [JSer](https://jser.dev), thanks to his DDIR series course I got learned more inner details about React.
+> This picture below shows some of my thoughts on the composition of React.
+> The text content below the picture also describes some low-level core concepts that build my simple React,
+> But words are not as straightforward as pictures, so I mainly draw the subsequent ideas in the pictures.
 
 ![Diagram of The Entire Architecture](./MyClassyReactArchitecture.png)
 
